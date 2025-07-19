@@ -1,7 +1,5 @@
 # Mirza Yoosha Portfolio
 
-![Portfolio Preview](./src/assets/portfolio-preview.png)
-
 ## 🌐 Live Website
 
 **Visit the portfolio:** [https://yoosha.tech](https://yoosha.tech)

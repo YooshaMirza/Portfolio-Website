@@ -2,7 +2,7 @@
 
 ## 🌐 Live Website
 
-**Visit the portfolio:** [https://yoosha.tech](https://yoosha.tech)
+**Visit the portfolio:** ([https://yoosha-portfolio.netlify.app](https://yoosha-portfolio.netlify.app))
 
 The website is live and hosted on the custom domain `yoosha.tech` for easy access and professional presentation.
 
